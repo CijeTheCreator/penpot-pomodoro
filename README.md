@@ -37,4 +37,5 @@ This plugin keeps you on track with the Pomodoro Technique, ensuring you maintai
 
 ![Screenshot](/.github/images/screenshot1.png "Start your Pomodoro session with customizable settings")  
 ![Screenshot](/.github/images/screenshot2.png "Take a short or long break with personalized themes")
+![Screenshot](/.github/images/screenshot3.png "Take a short or long break with personalized themes")
 
