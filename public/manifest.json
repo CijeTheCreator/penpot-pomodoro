@@ -1,6 +1,6 @@
 {
-  "name": "React example plugin",
-  "description": "Example plugin with react",
+  "name": "Penpot Pomodoro",
+  "description": "Boost Your Productivity with Focused Intervals",
   "code": "/plugin.js",
   "icon": "/icon.png",
   "permissions": [
