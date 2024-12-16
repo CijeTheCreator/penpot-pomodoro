@@ -9,6 +9,7 @@
 1. Make sure **Git** and **NodeJS** are installed.
 2. Clone this repository to your local computer.
 3. Run `npm install && npm run dev`.
+4. Install the plugin with `http://localhost:4402/manifest.json`
 
 ## Description
 
